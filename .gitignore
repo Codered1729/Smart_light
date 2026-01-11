@@ -1,0 +1,14 @@
+# Secrets
+secrets.h
+
+# Arduino build files
+*.bin
+*.elf
+*.hex
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
